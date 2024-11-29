@@ -1,1 +1,1 @@
-# SecondProject
+# Имя GitHub
